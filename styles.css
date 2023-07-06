@@ -1,0 +1,13 @@
+html {
+    background-color: bisque;
+}
+
+.blue {
+    background-color:cornflowerblue;
+}
+
+form {
+    border: 2px groove;
+    padding: 2%;
+    margin: 2%;
+}
